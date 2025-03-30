@@ -18,7 +18,7 @@
 
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/phishing-annihilator.git
+git clone https://github.com/CrystalRebirth/phishing-annihilator.git
 cd phishing-annihilator
 
 # Install dependencies
