@@ -1,0 +1,22 @@
+# Core dependencies
+pyshark==0.5.0
+tldextract==5.1.1
+imagehash==4.3.1
+Pillow==10.4.0
+requests==2.31.0
+pandas==2.2.0
+redis==5.0.1
+# python-phash replaced by imagehash
+# sqlite3 is built into Python
+
+# Async/Networking
+aiohttp==3.9.1
+asyncio==3.4.3
+
+# Development
+ruff==0.1.6
+pytest==8.0.0
+pytest-asyncio==0.23.5
+
+# Godot Engine Python integration (optional)
+# godot-python==0.9.0  # Commented out as it's not required for core functionality

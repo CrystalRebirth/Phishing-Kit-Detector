@@ -1,0 +1,23 @@
+database:
+  auto_update: true
+  path: brands.db
+  update_interval: 86400
+network:
+  capture_filter: tcp port 80 or tcp port 443
+  enable_network_monitoring: true
+  interface: eth0
+  scan_localhost: false
+phishtank_api_key: ''
+redis:
+  db: 0
+  host: localhost
+  port: 6379
+thresholds:
+  homoglyph: 0.3
+  logo_similarity: 5
+  risk_score: 50
+ui:
+  alert_sound: true
+  animation_intensity: 0.8
+  theme: cyberpunk
+virustotal_api_key: ''

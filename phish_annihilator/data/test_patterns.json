@@ -1,0 +1,14 @@
+{
+  "test_cases": [
+    {
+      "type": "homoglyph",
+      "domain": "g00gle.com",
+      "original": "google.com"
+    },
+    {
+      "type": "typosquat",
+      "domain": "facebok-login.com",
+      "original": "facebook.com"
+    }
+  ]
+}
